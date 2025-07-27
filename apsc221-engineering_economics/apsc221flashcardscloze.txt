@@ -1,0 +1,120 @@
+Generated code
+Fixed Costs are unaffected by changes in output, such as {{c1::insurance, licenses, and administrative salary}}. | **Source:** L1 APSC 221 - Cost Concepts, Slide 1
+Variable Costs change depending on the quantity of output, including {{c1::labour costs and materials}}. | **Source:** L1 APSC 221 - Cost Concepts, Slide 1
+Incremental Costs are additional costs from increasing the output of a system, like an {{c1::overtime shift}}, and are not necessarily associated with the quantity of output but rather a step change. | **Source:** L1 APSC 221 - Cost Concepts, Slide 1
+Direct Costs can be reasonably measured and allocated to specific work, such as {{c1::production labour and production materials}}. | **Source:** L1 APSC 221 - Cost Concepts, Slide 1
+Indirect or Overhead Costs are difficult to allocate to specific work and include expenses like {{c1::utilities, rent, and taxes}}. | **Source:** L1 APSC 221 - Cost Concepts, Slide 1
+Cash Costs are costs paid in cash that have an associated cash flow, like {{c1::what we actually pay for groceries}}. | **Source:** L1 APSC 221 - Cost Concepts, Slide 1
+Book Costs are not involved in an actual transaction and are used for accounting purposes, such as {{c1::depreciation, interest on loans, and insurance premiums}}. | **Source:** L1 APSC 221 - Cost Concepts, Slide 1
+Sunk Costs are costs from the past that have {{c1::no relevance to a future decision}}. | **Source:** L1 APSC 221 - Cost Concepts, Slide 2
+Opportunity Cost is the cost incurred by directing limited resources to a specific course of action, representing {{c1::what you could have done instead}}. | **Source:** L1 APSC 221 - Cost Concepts, Slide 2
+In a supply and demand graph, the business is operating at a loss when Total Revenue (TR) is {{c1::less than}} Total Costs (CT). | **Source:** L1 APSC 221 - Cost Concepts, Slide 3. **Context:** When TR > CT, the business is earning a profit.
+In engineering economics, estimates are classified into three categories: Order of magnitude, Semi-detailed/Budgetary, and {{c1::Definitive/Detailed}}. | **Source:** L2 APSC221 - Cost Estimation Techniques, Slide 1
+Order-of-magnitude estimates are characterized as low-cost and high-uncertainty, used in {{c1::early project phases}}. | **Source:** L2 APSC221 - Cost Estimation Techniques, Slide 1
+Detailed estimates are characterized as high-cost and are typically used in the {{c1::final stages}} of a project. | **Source:** L2 APSC221 - Cost Estimation Techniques, Slide 1
+The Consumer Price Index (CPI) is a common index used to estimate future revenue based on past data using the formula \( C_n = C_k(I_n/I_k) \), where 'k' is the reference year and 'n' is the {{c1::target year}}. | **Source:** L2 APSC221 - Cost Estimation Techniques, Slide 1
+The Unit Technique for cost estimation is used when you have a known and reliable {{c1::average per unit cost/revenue}}, which allows for scalability. | **Source:** L2 APSC221 - Cost Estimation Techniques, Slide 2
+Parametric cost estimation is based on {{c1::historical data and statistical methods}} to develop a model, like a line of best fit. | **Source:** L2 APSC221 - Cost Estimation Techniques, Slide 2
+The Power-Sizing Technique is a model based on economies of scale, described by the formula \( C_a = C_b(S_a/S_b)^X \), where X is the {{c1::cost-capacity factor}}. | **Source:** L2 APSC221 - Cost Estimation Techniques, Slide 2
+The Learning Curve Model assumes a constant percentage reduction in input resources as the output doubles, given by \( Z_u = k(u^{\log s / \log 2}) \), where S is the {{c1::learning curve parameter (decimal value)}}. | **Source:** L2 APSC221 - Cost Estimation Techniques, Slide 2
+Interest is compensation to a lender for the inconvenience of {{c1::losing productivity}} by lending money in the present. | **Source:** L3 APSC221 - Time Value of Money, Slide 1
+Simple interest is calculated on the principal amount only, using the formula \( I = P \cdot i \cdot N \), where \(N\) is the {{c1::number of time periods}}. | **Source:** L3 APSC221 - Time Value of Money, Slide 2
+Compound interest is calculated on the principal and accrued interest, using the formula \( F = P(1+i)^N \), where interest {{c1::compounds on itself}} over each period. | **Source:** L3 APSC221 - Time Value of Money, Slide 2
+The effective annual interest rate \(i_e\) can be calculated from the nominal rate \(r\) compounded \(m\) times per year using the formula \( i_e = (1 + r/m)^m - 1 \). This process is called {{c1::conversion}}. | **Source:** L3 APSC221 - Time Value of Money, Slide 3
+In a cash flow diagram, inflows are represented by {{c1::upward arrows}} and outflows (downflows) are represented by {{c1::downward arrows}}. | **Source:** L4 APSC221 - Cash Flow Analysis, Slide 1
+Mathematical equivalency is used to compare different cash flows by transferring them to a {{c1::common point in time}} using interest rates. | **Source:** L4 APSC221 - Cash Flow Analysis, Slide 2
+An annuity is a series of {{c1::equal payments}} made at regular time intervals for a fixed number of periods. | **Source:** L4 APSC221 - Cash Flow Analysis, Slide 2
+The Capital Recovery Factor (A/P, i, N) is used to convert a {{c1::present amount}} into an annuity. | **Source:** L4 APSC221 - Cash Flow Analysis, Slide 2
+Capitalized Value is the Present Worth (P) of an infinite series of cash flows (an annuity where N goes to infinity), calculated as \( P = A/i \), where A is the annuity amount and i is the interest rate. It applies only to {{c1::annuities}}. | **Source:** L4 APSC221 - Cash Flow Analysis, Slide 2
+An arithmetic gradient cash flow series starts at {{c1::zero}} and increases by a constant amount, G, from period to period. | **Source:** L4 APSC221 - Cash Flow Analysis, Slide 3
+According to the rules for cash flow analysis, the present amount, P, occurs N periods {{c1::earlier}} than the future amount, F. | **Source:** L4 APSC221 - Cash Flow Analysis, Slide 3
+In cash flow analysis, annuities have their first non-zero cash flow at the end of {{c1::Period 1}}. | **Source:** L4 APSC221 - Cash Flow Analysis, Slide 3
+In cash flow analysis, arithmetic gradients have their first non-zero cash flow at the end of {{c1::Period 2}}. | **Source:** L4 APSC221 - Cash Flow Analysis, Slide 3
+One of the key assumptions in comparison methods is that future cash flows are known with {{c1::certainty}}. | **Source:** L5 APSC221 - Comparison Methods 1, Slide 1
+Mutually exclusive (ME) projects are those where choosing one project from a pool {{c1::excludes the others}}. | **Source:** L5 APSC221 - Comparison Methods 1, Slide 1
+The Minimum Acceptable Rate of Return (MARR) is a minimum threshold used to determine if a project is {{c1::worth our time}}. | **Source:** L5 APSC221 - Comparison Methods 1, Slide 1
+In the Present Worth (PW) method, a project is considered viable if PW is {{c1::greater than 0}}, meaning benefits outweigh costs. | **Source:** L5 APSC221 - Comparison Methods 1, Slide 2
+When comparing alternatives with unequal lifespans, the Repeated Lives Approach repeats each alternative's cash flow until they both span the {{c1::Least Common Multiple}} of their lifespans. | **Source:** L5 APSC221 - Comparison Methods 1, Slide 3
+The Payback Period is the number of years for the {{c1::first cost}} to be recovered. | **Source:** L5 APSC221 - Comparison Methods 1, Slide 4
+A major drawback of the Payback Period method is that it is very crude and ignores the {{c1::time value of money}}. | **Source:** L5 APSC221 - Comparison Methods 1, Slide 4
+The Internal Rate of Return (IRR) is the interest rate 'i' at which the Present Worth (PW) of the cash flows is {{c1::zero}}. | **Source:** L6 APSC221 - IRR, Slide 1
+A project is considered viable if its IRR is {{c1::higher than}} the Minimum Acceptable Rate of Return (MARR). | **Source:** L6 APSC221 - IRR, Slide 2
+A key assumption for calculating a single IRR is that the sequence of cash flows has only {{c1::one sign change}} between positive and negative values. | **Source:** L6 APSC221 - IRR, Slide 3
+When evaluating mutually exclusive projects using IRR, you sort them by lowest to highest first cost and determine if the incremental investment of a costlier project has an IRR {{c1::greater than or equal to MARR}}. | **Source:** L6 APSC221 - IRR, Slide 3
+The External Rate of Return (ERR) is used to analyze non-standard cash flows by assuming we can invest cash at the {{c1::MARR}}. | **Source:** L7 APSC221 - ERR, Slide 1
+Using an ERR is necessary for non-standard cash flows to avoid the problem of {{c1::multiple IRRs}}. | **Source:** L7 APSC221 - ERR, Slide 1
+The Approximate ERR method is faster but less accurate because it moves all net receipts to the end at the MARR and all net disbursements forward at an {{c1::unknown rate}}, then solves for that rate. | **Source:** L7 APSC221 - ERR, Slide 2
+Inflation is the increase in the average price paid for goods and services, resulting in a {{c1::reduction}} of purchasing power. | **Source:** L8 APSC221 - Inflation, Slide 1
+Deflation is the decrease in the average price paid for goods and services, resulting in an {{c1::increase}} of purchasing power. | **Source:** L8 APSC221 - Inflation, Slide 1
+While the CPI is a snapshot of price levels, inflation is the {{c1::rate of change}} in those prices. | **Source:** L8 APSC221 - Inflation, Slide 1
+Actual Dollars (also known as Current or Nominal dollars) refer to the value of a dollar at the {{c1::time of the cash flow}}. | **Source:** L8 APSC221 - Inflation, Slide 1
+Real Dollars (or Constant dollars) refer to the value of dollars assuming a {{c1::constant purchasing power}}. | **Source:** L8 APSC221 - Inflation, Slide 2
+The formula \( \text{IRR}_{\text{actual}} = \text{IRR}_{\text{real}} + f + (\text{IRR}_{\text{real}} \times f) \) relates the actual IRR to the real IRR and the {{c1::inflation rate (f)}}. | **Source:** L8 APSC221 - Inflation, Slide 2. This same relationship holds for MARR.
+If inflation is accurately used, the Present Worth (PW) can be calculated either as the PW of actual dollars at the actual MARR, or the PW of {{c1::real dollars at the real MARR}}. | **Source:** L8 APSC221 - Inflation, Slide 3
+Depreciation is the loss in value of physical assets over time, which can come from use-related physical loss, time-related loss, or {{c1::functional loss}}. | **Source:** L9 APSC221 - Depreciation, Slide 1
+Book value is the value of an asset for {{c1::accounting purposes}}, whereas market value is its value on the open market. | **Source:** L9 APSC221 - Depreciation, Slide 1
+Salvage value is the estimated value of an asset at the end of its {{c1::useful life}}, while scrap value is its value at the end of its physical life. | **Source:** L9 APSC221 - Depreciation, Slide 1
+Straight Line Depreciation (SLD) assumes a constant rate of value loss, calculated as \( D_{sl}(n) = (P - S) / N \), where P is purchase price, S is salvage value, and N is {{c1::useful life in periods}}. | **Source:** L9 APSC221 - Depreciation, Slide 2
+Declining Balance Depreciation (DBD) models loss at a constant {{c1::proportion of value (%)}} over the life cycle, making it more realistic than SLD. | **Source:** L9 APSC221 - Depreciation, Slide 2
+In Canada, the Declining Balance Depreciation (DBD) model is the mandated depreciation model by the {{c1::CRA (Canada Revenue Agency)}}. | **Source:** L9 APSC221 - Depreciation, Slide 2
+Taxes effectively reduce the profit of a project. The after-tax MARR is calculated as \( \text{MARR}_{\text{after-tax}} = \text{MARR}_{\text{before-tax}} \times (1 - t) \), where 't' is the {{c1::tax rate}}. | **Source:** L10 APSC221 - Taxes, Slide 1
+Capital Cost Allowance (CCA) allows corporations to expense {{c1::depreciation}} instead of the full initial purchase price of an asset to reduce taxable profit. | **Source:** L10 APSC221 - Taxes, Slide 1
+Undepreciated Capital Cost (UCC) is the {{c1::tax book value}} for a class of assets and is used only for taxation purposes. | **Source:** L10 APSC221 - Taxes, Slide 1
+The Half-Year Rule for tax purposes states that only {{c1::half}} of an asset's capital cost can be added to the Undepreciated Capital Cost (UCC) in the year of acquisition. | **Source:** L10 APSC221 - Taxes, Slide 2
+The Capital Tax Factor (CTF) calculates the tax savings from CCA, reducing the present worth of the initial cost, and assumes the asset has an {{c1::infinite life}}. | **Source:** L10 APSC221 - Taxes, Slide 2
+The Capital Salvage Factor (CSF) is applied when an asset's useful life {{c1::ends}} and it is sold, acting as a cutoff to the infinite tax savings assumed by the CTF. | **Source:** L10 APSC221 - Taxes, Slide 2
+In a complete tax calculation, the First Cost is multiplied by the {{c1::CTF}}, Savings or Expenses are multiplied by {{c2::(1 - t)}}, and the Salvage Value is multiplied by the {{c3::CSF}}. | **Source:** L10 APSC221 - Taxes, Slide 3
+An asset's economic life is the point at which the cost of {{c1::keeping the asset}} outweighs the economic benefit it provides. | **Source:** L11 APSC221 - Replacement Decisions, Slide 1
+Equivalent Annual Cost (EAC) provides a way to compare costs that {{c1::vary over time}} by converting them to an annual basis. | **Source:** L11 APSC221 - Replacement Decisions, Slide 2
+In replacement decisions, the current asset is called the {{c1::Defender}} and the potential replacement asset is called the {{c2::Challenger}}. | **Source:** L11 APSC221 - Replacement Decisions, Slide 2
+For Scenario 1 (Identical Defender and Challenger), the decision rule is to replace when the {{c1::EAC_capital is minimized}}, which occurs at the asset's economic life. | **Source:** L11 APSC221 - Replacement Decisions, Slide 2
+When making replacement decisions, {{c1::sunk costs}} are excluded from the analysis. | **Source:** L11 APSC221 - Replacement Decisions, Slide 3
+The One-Year Principle states that if capital costs are small and O&M costs increase steadily, the economic life of the defender is {{c1::1 year}}. | **Source:** L11 APSC221 - Replacement Decisions, Slide 3
+Sensitivity analysis and break-even analysis address {{c1::uncertainty (no probabilities)}}, while decision trees address {{c2::risk (with probabilities)}}. | **Source:** L12 APSC221 - Risk & Uncertainty, Slide 1
+Sensitivity analysis examines how changes in one parameter at a time affect the project outcome (e.g., {{c1::Present Worth}}). | **Source:** L12 APSC221 - Risk & Uncertainty, Slide 2
+Break-even analysis involves varying a parameter to find the value where the outcome meets a {{c1::threshold}} (e.g., PW = $10,000). | **Source:** L12 APSC221 - Risk & Uncertainty, Slide 2
+In a decision tree, a square node represents a {{c1::Decision}}, while a circle node represents a {{c2::Chance event}}. | **Source:** L12 APSC221 - Risk & Uncertainty, Slide 2
+The Expected Value of a random variable is calculated using the formula \( E(X) = \sum x_i p(x_i) \), where \(x_i\) is a possible outcome and \(p(x_i)\) is its {{c1::probability}}. | **Source:** L12 APSC221 - Risk & Uncertainty, Slide 3
+A major assumption in both sensitivity and break-even analyses is that only {{c1::one variable changes at a time}}. | **Source:** L12 APSC221 - Risk & Uncertainty, Slide 3
+The four-stage process of risk management is: 1. Identification, 2. Analysis of Probability and Impact, 3. Mitigation Strategies, and 4. {{c1::Control and Documentation}}. | **Source:** L13 APSC221 - Risk Management, Slide 1
+Project Risk is any possible event that can {{c1::negatively impact}} the viability of a project. | **Source:** L13 APSC221 - Risk Management, Slide 1
+Risk can be quantified by the formula: Risk = ({{c1::Probability of Event}}) * ({{c2::Impact of Event}}). | **Source:** L13 APSC221 - Risk Management, Slide 1
+In the project life cycle, the period of highest risk impact occurs during the {{c1::Execute (E)}} phase. | **Source:** L13 APSC221 - Risk Management, Slide 2
+Risk mitigation strategies include accepting the risk, minimizing the risk, sharing the risk, and {{c1::transferring the risk}}. | **Source:** L13 APSC221 - Risk Management, Slide 3
+An entrepreneur is an individual who runs a small business and assumes all the {{c1::risk and reward}} of a business venture. | **Source:** L14 APSC221 - Recognizing Opportunities, Slide 1
+An intrapreneur is an employee within a large firm who uses entrepreneurial skills without incurring the {{c1::associated personal risks}}. | **Source:** L14 APSC221 - Recognizing Opportunities, Slide 1
+An opportunity is a favorable set of circumstances that creates a need for a new product, service, or business and must be attractive, durable, adds value, and be {{c1::timely}}. | **Source:** L14 APSC221 - Recognizing Opportunities, Slide 1
+Opportunities can be identified by solving a problem, observing trends, or finding {{c1::gaps in the marketplace}}. | **Source:** L14 APSC221 - Recognizing Opportunities, Slide 2
+The five stages of idea generation are: 1. Preparation, 2. Incubation, 3. {{c1::Insight}}, 4. Evaluation, 5. Elaboration. | **Source:** L14 APSC221 - Recognizing Opportunities, Slide 2
+Feasibility analysis determines if a business opportunity is viable. It depends on four areas: Product/service, Industry/Target Market, Organizational, and {{c1::Financial feasibility}}. | **Source:** L15 APSC221 - Feasibility Analysis, Slide 1
+A concept test for product/service feasibility involves distributing a {{c1::one-page description}} of the product/service to people for feedback. | **Source:** L15 APSC221 - Feasibility Analysis, Slide 1
+Attractive industries for a new business are often young, growing, fragmented, not crowded, sell "needs", and have {{c1::high operating margins}}. | **Source:** L15 APSC221 - Feasibility Analysis, Slide 2
+Organizational feasibility focuses on {{c1::non-financial resources}} to determine if a proposed business has sufficient management expertise and competence. | **Source:** L15 APSC221 - Feasibility Analysis, Slide 2
+Financial factors associated with promising business opportunities include steady growth, high recurring revenue, forecastability, and the availability of an {{c1::exit opportunity for investors}}. | **Source:** L15 APSC221 - Feasibility Analysis, Slide 3
+The four main financial objectives of a firm are Profitability, Liquidity, Efficiency, and {{c1::Stability}}. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 1
+An Income Statement reflects the result of business operations for a {{c1::given period of time}}. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 1
+A Balance Sheet outlines a company's assets, liabilities, and equity at a {{c1::specific point in time}}. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 1
+Pro forma financial statements are {{c1::projections of future periods}} and are strictly planning tools. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 2
+On an income statement, Gross Profit is calculated as {{c1::Revenue - Cost of Sales}}. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 2
+The fundamental accounting equation is {{c1::Assets = Liabilities + Equity}}. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 3
+Current Assets are assets that are {{c1::quick to become cash}}, such as cash, accounts receivable, and inventories. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 3
+Retained earnings represent all the {{c1::past profits not paid out}} to investors. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 4
+A rule of thumb for liquidity is that the Current Ratio (Current Assets / Current Liabilities) should be {{c1::greater than 2}}. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 7
+The Acid-Test (or Quick) Ratio is similar to the Current Ratio but uses {{c1::quick assets}}, which can be turned into cash immediately. A target value is 1. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 6
+The Debt to Equity Ratio tells investors how much debt the company is in; a large value suggests stockholders might not receive money in a {{c1::bankruptcy}}. | **Source:** L16 APSC221 - Assessing Financial Strength, Slide 6
+A full business plan is typically {{c1::20-35 pages}} long and is best for new ventures in need of funding or financing. | **Source:** L17 APSC221 - How to Write a Business Plan, Slide 1
+The Executive Summary of a business plan should be written {{c1::last}}, but appears first. | **Source:** L17 APSC221 - How to Write a Business Plan, Slide 1
+The 'Economics of the Business' section of a business plan addresses the basic logic of how profits are earned and includes a {{c1::break-even analysis}}. | **Source:** L17 APSC221 - How to Write a Business Plan, Slide 2
+The Management Team section of a business plan is critical and is often viewed right after the executive summary to assess the {{c1::strength of the people}} starting the firm. | **Source:** L17 APSC221 - How to Write a Business Plan, Slide 3
+The recommended slides for a business plan presentation include: Title, Problem, Solution, Opportunity/Target Market, Technology, Competition, Marketing/Sales, Management Team, Financials, Status, Financing Sought, and {{c1::Summary}}. | **Source:** L17 APSC221 - How to Write a Business Plan, Slide 3-4
+An organization's Mission is its purpose and what it is achieving, while its Vision is its {{c1::future focus}}, defining the future state of the org. | **Source:** L18 APSC221 - Managing the Business Enterprise, Slide 1
+The management process consists of Planning, Leading, Organizing, and {{c1::Controlling}}. | **Source:** L18 APSC221 - Managing the Business Enterprise, Slide 2
+Strategic management is the process of aligning the organization with its {{c1::external environment}}. | **Source:** L18 APSC221 - Managing the Business Enterprise, Slide 2
+A SWOT analysis is an evaluation technique that identifies an organization's internal {{c1::Strengths and Weaknesses}} and its external {{c2::Opportunities and Threats}}. | **Source:** L18 APSC221 - Managing the Business Enterprise, Slide 3
+The three levels of strategy are Corporate-level (large), {{c1::Business-level (medium)}}, and Functional-level (small). | **Source:** L18 APSC221 - Managing the Business Enterprise, Slide 3
+Organizational change management focuses on transitioning an organization from a current state to a {{c1::desired future state}}. | **Source:** L19 APSC221 - Change Management, Slide 1
+Change is made by people, not systems, and it is the {{c1::people's adoption}} of these changes that is the true change. | **Source:** L19 APSC221 - Change Management, Slide 1
+Transformational change involves major shifts in corporate vision, such as when a {{c1::new CEO}} introduces a strategic shift to boost performance. | **Source:** L19 APSC221 - Change Management, Slide 1
+Of the four change outcomes, 'The Lost Investment' occurs when performance {{c1::declines over time}} after a change is implemented because the change is not sustained. | **Source:** L19 APSC221 - Change Management, Slide 2
+The 'Ideal' change outcome is rare, but occurs when a change is implemented and sustained with {{c1::minimal short-term performance impact}}. | **Source:** L19 APSC221 - Change Management, Slide 2
+Effective change management requires vision, persistence, and {{c1::empathy}} to fellow workers, since humans naturally have a resistance to change. | **Source:** L19 APSC221 - Change Management, Slide 3

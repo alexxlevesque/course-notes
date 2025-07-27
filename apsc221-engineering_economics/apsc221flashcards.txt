@@ -1,0 +1,115 @@
+Generated code
+What are Fixed Costs?|Costs that are unaffected by changes in output or activity level. Examples include insurance, licenses, and administrative salaries.
+What are Variable Costs?|Costs that vary depending on the quantity of output or the activity level of an operation. Examples include labor costs and materials.
+What are Incremental Costs/Revenues?|The additional cost or revenue that results from increasing the output of a system by one more unit or a step change, such as adding an overtime shift.
+What are Direct Costs?|Costs that can be reasonably measured and allocated to a specific work item or output. Examples include production labor and materials.
+What are Indirect or Overhead Costs?|Costs that are difficult to allocate to specific work and are incurred for the joint benefit of multiple cost objects. Examples include utilities, rent, and taxes.
+What are Cash Costs?|Costs that involve an actual cash payment and result in a cash flow.
+What are Book Costs?|Costs that do not involve an actual cash transaction but are recorded in the financial statements for accounting purposes. Examples include depreciation and interest on loans.
+What are Life Cycle Costs?|The sum of all costs related to a product over its entire life span, from its initial acquisition phase to its final operation and disposal phase.
+What are Sunk Costs?|Costs that have already been incurred in the past and cannot be recovered. They are irrelevant to future decisions.
+What is an Opportunity Cost?|The cost of a foregone alternative. It is the benefit lost by choosing one course of action over another, representing the trade-off of any decision.
+What are the two main phases in a product's life cycle?|The acquisition phase and the operation phase.
+What is Cumulative Committed Life-Cycle Cost?|This represents the decisions made to spend money, which primarily occurs during the acquisition phase and locks in future costs.
+What is Cumulative Life-Cycle Cost?|This represents the actual money being spent, which occurs during the construction and operation phase.
+What is the typical relationship between price and quantity demanded?|As the price of a good or service decreases, the quantity demanded by consumers generally increases.
+What is the typical relationship between price and quantity supplied?|As the price of a good or service increases, producers are generally willing to supply a larger quantity.
+What is the ultimate goal of a business?|To make a profit.
+How is profit or loss determined in a business?|A business operates at a loss when Total Revenue (TR) is less than Total Costs (CT). It earns a profit when TR is greater than CT.
+What is the formula for Total Costs (CT)?|Total Costs (CT) are the sum of Fixed Costs (CF) and Variable Costs (Cv). \[ CT = CF + Cv \]
+What are the three classifications of cost estimates in engineering economic studies?|1. Order of magnitude estimate
+2. Semi-detailed/Budgetary Estimate
+3. Definitive/Detailed Estimate
+How do cost, uncertainty, and project phase relate in cost estimation?|Order-of-magnitude estimates are used in early project phases, have low cost to prepare, but high uncertainty. Definitive/Detailed estimates are used in final stages, are high-cost to prepare, but have low uncertainty.
+What is the formula for using an index to estimate costs?|\[ C_n = C_k(I_n/I_k) \] where \(C\) is cost, \(I\) is the index value, \(k\) is the reference year, and \(n\) is the target year.
+What is the Unit Technique for cost estimation?|A method that uses a known and reliable average per-unit cost or revenue, which is then scaled to estimate the total cost for a project.
+What is Parametric Cost Estimation?|A technique that uses historical data and statistical methods to develop a model based on key independent variables (cost drivers) to estimate budget-level costs.
+What is the Power-Sizing Technique and its formula?|A model based on economies of scale. The formula is \[ C_a = C_b(S_a/S_b)^X \] where \(C\) is cost, \(S\) is project size, \(A\) is the project being estimated, \(B\) is the known project, and \(X\) is the cost-capacity factor.
+What is the Learning Curve Model and its formula?|A model based on the assumption that there is a constant percentage reduction in input resources as the output doubles. The formula is \[ Z_u = k(u^{(\log s / \log 2)}) \] where \(Z_u\) is the resource value for the \(u^{th}\) unit, \(k\) is the value for the first unit, and \(s\) is the learning curve parameter.
+What is interest?|Interest is the compensation paid to a lender for the use of their money, covering the inconvenience and lost productivity of not having the money in the present.
+What is the difference between simple and compound interest?|Simple interest is calculated only on the principal amount. Compound interest is calculated on the principal plus any accrued interest from previous periods.
+What is the formula for simple interest?|\[ I = P \cdot i \cdot N \] where \(P\) is principal, \(i\) is the interest rate per period, and \(N\) is the number of periods.
+What is the formula for compound interest?|\[ F = P(1+i)^N \] where \(F\) is the future value, \(P\) is the principal, \(i\) is the interest rate per period, and \(N\) is the number of periods.
+What is the difference between a nominal and an effective interest rate?|A nominal interest rate (\(r\)) is the stated annual rate. An effective interest rate (\(i_e\)) is the rate that accounts for the effect of compounding over sub-periods within the year.
+How do you calculate the effective annual interest rate from a nominal rate?|\[ i_e = (1 + r/m)^m - 1 \] where \(r\) is the nominal annual rate and \(m\) is the number of compounding sub-periods per year.
+What is a cash flow diagram?|A graphical representation that summarizes the timing and magnitude of cash flows over a period of time, with inflows shown as upward arrows and outflows as downward arrows.
+What is the principle of Equivalence in finance?|The concept that different sums of money at different points in time can be considered equal in value if they are adjusted for the time value of money using an appropriate interest rate.
+What are Compound Interest Factors?|Pre-calculated formulas that define the mathematical equivalence between common cash flow patterns, simplifying the process of moving money across time.
+What is an annuity?|A series of equal payments or cash flows made at regular time intervals for a fixed number of periods.
+What is the Capitalized Value of an infinite annuity?|The present value (P) of a perpetual (infinite) series of equal cash flows (A). The formula is \[ P = A/i \].
+What is an Arithmetic Gradient Cash Flow?|A cash flow series that starts at zero and increases or decreases by a constant amount (G) in each subsequent period.
+What is a Geometric Gradient Cash Flow?|A cash flow series that increases or decreases by a constant percentage or rate from period to period.
+How can non-standard cash flows be analyzed?|They can be analyzed by breaking them down into known patterns (like single cash flows, annuities, and gradients) and converting each part individually, or by using a spreadsheet.
+What is the Minimum Acceptable Rate of Return (MARR)?|A minimum threshold rate of return that a project must meet to be considered viable or worth pursuing.
+What is the decision rule for a project using the Present Worth (PW) method?|If PW > 0, the project's benefits outweigh its costs and it is economically justified. If PW < 0, it is not.
+For mutually exclusive projects, which project should be chosen using the Present Worth method?|The project with the highest positive Present Worth (PW).
+What are the three methods for comparing alternatives with unequal lifespans?|1. **Repeated Lives Approach**: Assume each alternative repeats until a common lifespan (the LCM) is reached.
+2. **Study Period Approach**: Choose a specific study period and assign a salvage value to each alternative at the end of that period.
+3. **Annual Worth (AW) Method**: Convert each alternative's PW into an equivalent annual amount over its own lifespan. This is often the simplest method.
+What is the Payback Period?|The number of years required for the initial cost of an investment to be recovered by its annual benefits.
+What is the primary weakness of the Payback Period method?|It ignores the time value of money and any cash flows that occur after the payback period has been reached.
+What is the Internal Rate of Return (IRR)?|The discount rate at which the Present Worth (PW) of a project's cash flows equals zero. It represents the project's intrinsic rate of return.
+What is the decision rule for a single project using the IRR method?|If the IRR is greater than the Minimum Acceptable Rate of Return (MARR), the project is considered economically viable.
+Under what condition might a project have multiple IRRs?|If the sequence of net cash flows has more than one sign change (e.g., from negative to positive and back to negative).
+How are mutually exclusive projects compared using IRR?|Through an incremental analysis. Projects are sorted by first cost, and the incremental investment of each "challenger" is compared against the "current best." If the IRR of the increment is greater than MARR, the challenger becomes the new best.
+What is the purpose of the External Rate of Return (ERR)?|To evaluate a project with non-standard cash flows (multiple sign changes) by assuming that excess cash can be invested externally at the MARR, thus avoiding the multiple IRR problem.
+What is the difference between Actual (Nominal) Dollars and Real (Constant) Dollars?|Actual dollars are the value of money at the time of the cash flow, affected by inflation. Real dollars are adjusted for inflation to reflect constant purchasing power relative to a base year.
+How do you convert Actual Dollars to Real Dollars?|\[ \text{Real Dollars} = \frac{\text{Actual Dollars}}{(1+f)^N} \] where \(f\) is the inflation rate and \(N\) is the number of years.
+What is the relationship between the actual interest rate (i), the real interest rate (i'), and the inflation rate (f)?|\[ i' = \frac{1+i}{1+f} - 1 \]
+What is depreciation?|The decrease in an asset's value over time due to use-related physical loss (wear and tear), time-related loss, or functional loss (obsolescence).
+What is the difference between Market Value and Book Value?|Market value is the price an asset would sell for on the open market. Book value is the value of an asset for accounting purposes, calculated as its original cost minus accumulated depreciation.
+What is the formula for Straight-Line Depreciation (SLD)?|\[ D_{sl}(n) = \frac{P-S}{N} \] where \(D\) is the annual depreciation charge, \(P\) is the purchase price, \(S\) is the salvage value, and \(N\) is the useful life.
+What is Declining Balance Depreciation (DBD)?|A method that models depreciation as a constant percentage (\(d\)) of the asset's book value at the beginning of each year. This is a more realistic, accelerated method.
+How does tax affect the MARR?|Taxes reduce profits, so the after-tax MARR is lower than the before-tax MARR. The formula is: \[MARR_{\text{after-tax}} = MARR_{\text{before-tax}}(1 - t)\], where \(t\) is the corporate tax rate.
+What is the Capital Cost Allowance (CCA)?|In Canada, CCA is the tax-deductible depreciation expense that corporations can claim. It uses the Declining Balance method with specified rates for different asset classes.
+What is the Half-Year Rule in CCA calculations?|A rule stating that in the year an asset is acquired, only half of its capital cost can be used to calculate the CCA for that year.
+What is the Economic Life of an asset?|The period of time over which an asset provides the maximum economic benefit, determined by finding the point where its Equivalent Annual Cost (EAC) is minimized.
+What are the Defender and the Challenger in a replacement analysis?|The **Defender** is the existing asset currently in use. The **Challenger** is the potential new asset that could replace it.
+When should an existing asset (Defender) be replaced by a new one (Challenger)?|The defender should be replaced when its marginal cost for the next year is greater than the minimum Equivalent Annual Cost (EAC) of the challenger.
+What is Sensitivity Analysis?|A technique used to determine how different values of an independent variable (e.g., MARR, sales volume) will impact a particular dependent variable (e.g., Present Worth) under a given set of assumptions.
+What is Break-even Analysis?|A type of sensitivity analysis that identifies the value of a specific parameter at which a project's costs are equal to its revenues (e.g., PW = 0).
+What is a Decision Tree?|A graphical tool used to model sequential decisions and their possible outcomes under conditions of risk (where probabilities can be assigned to chance events).
+What is the formula for the Expected Value of a random variable?|\[ E(X) = \Sigma [x_i \cdot p(x_i)] \] where \(x_i\) is a possible outcome and \(p(x_i)\) is its probability of occurrence.
+What are the four stages of the risk management process?|1. Identification
+2. Analysis of Probability and Impact
+3. Mitigation Strategies
+4. Control and Documentation
+What is the formula for Project Risk?|Risk = (Probability of Event) × (Impact of Event)
+What are the four main risk mitigation strategies?|1. **Accept** the risk.
+2. **Minimize** the risk (reduce probability and/or impact).
+3. **Share** the risk (contractually).
+4. **Transfer** the risk (e.g., through insurance).
+What is the difference between an entrepreneur and an intrapreneur?|An **entrepreneur** starts and runs their own business, assuming all the risks and rewards. An **intrapreneur** is an employee within a larger firm who uses entrepreneurial skills to develop a project or idea for the company.
+What are the four essential characteristics of an opportunity?|1. Attractive
+2. Timely
+3. Durable
+4. Creates or adds value for its buyer or end-user
+What are the four key areas of a feasibility analysis?|1. Product/Service Feasibility
+2. Industry/Target Market Feasibility
+3. Organizational Feasibility
+4. Financial Feasibility
+What are the four primary financial objectives of a firm?|1. **Profitability**: Ability to make a profit.
+2. **Liquidity**: Ability to meet short-term obligations.
+3. **Efficiency**: How productively assets are used to generate profit.
+4. **Stability**: Overall financial health and posture.
+What are the three main historical financial statements?|1. **Income Statement**: Shows revenues, expenses, and profit over a period.
+2. **Balance Sheet**: Shows assets, liabilities, and equity at a specific point in time.
+3. **Statement of Cash Flows**: Summarizes cash inflows and outflows from operating, investing, and financing activities.
+What is the purpose of ratio analysis?|To interpret a company's financial statements by comparing its performance over time (trend analysis) or against industry norms (comparative analysis).
+What are the three types of business plans?|1. **Summary Business Plan** (10-15 pages): For early-stage ventures.
+2. **Full Business Plan** (25-35 pages): For seeking funding.
+3. **Operational Business Plan** (40-100 pages): An internal blueprint for operations.
+What are the key elements of a comprehensive business plan?|Executive Summary, Industry Analysis, Company Description, Market Analysis, Economics of the Business, Marketing Plan, Design and Development Plan, Operations Plan, Management Team, Overall Schedule, and Financial Projections.
+What is the difference between a company's Mission, Vision, and Values?|**Mission**: The organization's purpose and what it does.
+**Vision**: The organization's future-focused aspiration.
+**Values**: The shared beliefs that guide culture and decision-making.
+What are the four core functions of the management process?|1. **Planning**: Setting goals and strategy.
+2. **Leading**: Motivating and guiding people.
+3. **Organizing**: Arranging resources to implement plans.
+4. **Controlling**: Measuring performance against standards.
+What is a SWOT analysis?|An evaluation technique that analyzes an organization's internal **S**trengths and **W**eaknesses, and its external **O**pportunities and **T**hreats.
+What is organizational change management?|The process of managing the transition of an organization from a current state to a desired future state, with the goal of minimizing disruption and maximizing benefits.
+What are the four potential outcomes of an organizational change initiative?|1. **The Disaster**: Irreversible change leads to a devastating performance reduction.
+2. **The Lost Investment**: Performance declines after the change as people revert to old ways.
+3. **The Partial Success**: Some improvement is sustained, but the full potential is not realized.
+4. **The Ideal**: Change is implemented and sustained with minimal disruption and maximum benefit.
